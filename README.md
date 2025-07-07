@@ -1,6 +1,6 @@
 # 📰 Portal de Notícias
 
-![apresentacão do desafio](assets/capa.pn)
+![apresentacão do desafio](assets/capa.png)
 
 Projeto desenvolvido como parte da formação da Rocketseat.
 
