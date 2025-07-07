@@ -16,12 +16,13 @@
   --h1: 800 24px/135% var(--font-family);
   --h2: 800 16px/140% var(--font-family);
   --text-span: 600 14px/145% var(--font-family);
-  --text-span: 600 16px/145% var(--font-family);
-  --text-span: 400 14px/160% var(--font-family);
+  --text: 600 16px/145% var(--font-family);
+  --text-sm: 400 14px/160% var(--font-family);
 
 }
 
 body {
+  font: var(--text);  
   color: var(--text-color-primary);
   background-color: var(--bg-color);
 }
@@ -53,6 +54,7 @@ img {
 
 main {
   margin-top: 40px;
+  gap: 80px;
 }
 
 .content-tag {
